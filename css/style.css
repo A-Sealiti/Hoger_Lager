@@ -1,0 +1,74 @@
+ .dices {
+     padding: 10px;
+     column-count: 5;
+     column-fill: balance;
+ }
+
+ .headings {
+     padding: 10px;
+     column-count: 5;
+     column-fill: balance;
+     font-size: 24px;
+ }
+
+ .credits {
+     column-count: 5;
+     column-fill: balance;
+ }
+
+ .text-center {
+     text-align: center;
+ }
+
+ .dices-computer-player {
+     column-count: 2;
+ }
+
+ .dices-player {
+     column-count: 2;
+ }
+
+ .message {
+     column-count: 3;
+     column-fill: balance;
+ }
+
+ .message-box {
+     border: 2px solid black;
+     background-color: #ffffff;
+ }
+
+ .controls {
+     padding: 10px;
+     column-count: 6;
+     column-fill: balance;
+ }
+
+ .dice {
+     font-size: 65pt;
+     color: black;
+ }
+
+ button {
+     width: 100%;
+
+     font-weight: bold;
+
+ }
+
+ .test-div {
+     background-color: blueviolet;
+     width: 50px;
+     height: 50px;
+     margin: auto;
+ }
+
+ body {
+     /* background-image: url('/image/casino.jpg'); */
+     background-size: cover;
+     margin: auto;
+     width: auto;
+     height: auto;
+     text-align: color black;
+ }
+ 
